@@ -89,6 +89,7 @@ REVISTA BRASILEIRA DE INFORMÁTICA NA EDUCAÇÃO
 http://www.br-ie.org/pub/index.php/rbie/article/download/7788/6035
 +++++++++++++++++++++++++++++++++++++++++++++++
 Análise das Atividades Divulgadas pelos Grupos PET de Computação para Identificar Oportunidades de Parcerias e Inovação no Uso de Metodologias e Tecnologias na Educação em Computação
+                
 COSTA, E.; BRAZ JUNIOR, G.; BARRADAS FILHO, A. O.; SANTOS, D. V.; BOTTENTUIT JUNIOR, J. B.; RIVERO, L.
 
 30
@@ -140,6 +141,7 @@ http://www.br-ie.org/pub/index.php/pie/article/download/7858/6029
 +++++++++++++++++++++++++++++++++++++++++++++++
 Modelo de Aceitação de Tecnologia TAM.
 CONTE, T. U. ; VALENTIM, N. ; RIVERO, L. ; LOPES, A. ; OLIVEIRA, E. C. ; STEINMACHER, I.
+                
 
 
 
@@ -239,6 +241,7 @@ BRAZILIAN SYMPOSIUM ON SOFTWARE ENGINEERING
 https://dl.acm.org/doi/fullHtml/10.1145/3474624.3477069
 +++++++++++++++++++++++++++++++++++++++++++++++
 Development and Evaluation of an Inspection Checklist Tool for Mobile Educational Games.
+                
 FRAZAO, K. ; ARAGAO, A. ; PAIVA, A. ; SANTOS, D. V. ; RIVERO, L. 
 BRAZILIAN SYMPOSIUM ON SOFTWARE ENGINEERING
 
@@ -489,6 +492,7 @@ SBC
 https://sol.sbc.org.br/index.php/wei/article/download/6621/6517/
 +++++++++++++++++++++++++++++++++++++++++++++++
 Utilizando Métricas de Qualidade na Avaliação de uma Aplicação para Cidades Inteligentes.
+                
 ARAGAO, A. ; MORENO, N. ; SANTOS, D. V. ; SILVA, F. ; SOUSA, T. ; RIVERO, L. ; TELES, A. ; CONCEICAO, A. ; COSTA, I.
 ANAIS DO IV WORKSHOP SOBRE ASPECTOS SOCIAIS, HUMANOS E ECONÔMICOS DE SOFTWARE
 
@@ -520,6 +524,7 @@ https://www.researchgate.net/profile/Leonardo-Marques-2/publication/328688812_Do
 +++++++++++++++++++++++++++++++++++++++++++++++
 Desenvolvimento de um Aplicativo de Combate à Depressão através da Análise de Informações de Grupos em uma Rede Social.
 OLIVEIRA, M. L. S. ; OLIVEIRA NETO, J. N. ; SANTOS, R. P. ; RIVERO, LUIS ; SANTOS, D. V.
+                
 ANAIS DO XIV SIMPÓSIO BRASILEIRO DE SISTEMAS DE INFORMAÇÃO
 
 
@@ -559,6 +564,7 @@ PROCEEDINGS OF THE XVI BRAZILIAN SYMPOSIUM ON HUMAN FACTORS IN COMPUTING SYSTEMS
 https://dl.acm.org/doi/pdf/10.1145/3160504.3160512
 +++++++++++++++++++++++++++++++++++++++++++++++
  Searching for Preferences of Autistic Children to Support the Design of User Interfaces.
+                
 MELO, A. ; SANTOS, J. ; RIVERO, LUIS ; BARRETO, R.
 PROCEEDINGS OF THE XVI BRAZILIAN SYMPOSIUM ON HUMAN FACTORS IN COMPUTING SYSTEMS
 
@@ -589,6 +595,7 @@ SIMPÓSIO BRASILEIRO DE INFORMÁTICA NA EDUCAÇÃO (SBIE)
 http://www.br-ie.org/pub/index.php/sbie/article/download/7610/5406
 +++++++++++++++++++++++++++++++++++++++++++++++
 Avaliando a Experiência do Usuário na utilização do Sistema de Gestão Acadêmica - SIGAA.
+                
 SILVA, D. P. ; RIVERO,     L. ; SANTOS, D.     V.
 
 
@@ -599,6 +606,7 @@ SILVA, D. P. ; RIVERO,     L. ; SANTOS, D.     V.
 https://pet.ufma.br/eacomp_anais/wp-content/uploads/sites/7/2017/07/NEWAvaliando-a-Experi%C3%AAncia-do-Usu%C3%A1rio-na-utiliza%C3%A7%C3%A3o.pdf
 +++++++++++++++++++++++++++++++++++++++++++++++
 How Novice Software Engineers Apply User Interface Design Patterns: An Empirical Study.
+                
 RIVERO, L.; CONTE, T.     U.
 PROCEEDINGS OF THE INTERNATIONAL CONFERENCE SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING SEKE
 
@@ -729,6 +737,7 @@ IEEE
 https://www.researchgate.net/profile/Luis-Rivero-4/publication/288485717_Using_a_Controlled_Experiment_to_Evaluate_Usability_Inspection_Technologies_for_Improving_the_Quality_of_Mobile_Web_Applications_Earlier_in_their_Design/links/56c2062308aeedba0567cad1/Using-a-Controlled-Experiment-to-Evaluate-Usability-Inspection-Technologies-for-Improving-the-Quality-of-Mobile-Web-Applications-Earlier-in-their-Design.pdf
 +++++++++++++++++++++++++++++++++++++++++++++++
 Apoiando o Ensino de Qualidade de Software: Um Serious Game para o Ensino de Usabilidade.
+                
 FERREIRA, B. ; RIVERO, L. ; LOPES, A. ; MARQUES, A. ; CONTE, TAYANA
 FÓRUM DE EDUCAÇÃO EM ENGENHARIA DE SOFTWARE
 
@@ -749,6 +758,7 @@ FERREIRA, B. ; RIVERO, L. ; LOPES, A. ; MARQUES, A. ; CONTE, TAYANA
 http://www.br-ie.org/pub/index.php/sbie/article/download/3075/2583
 +++++++++++++++++++++++++++++++++++++++++++++++
 Improving Usability Inspection Technologies for Web Mockups through Empirical Studies.
+                
 RIVERO, L.; CONTE, T.     U.
 SEKE
 
@@ -900,6 +910,7 @@ ANAIS DO IV ENCONTRO MARANHENSE DOS GRUPOS DE PROGRAMA DE EDUCAÇÃO TUTORIAL
 +++++++++++++++++++++++++++++++++++++++++++++++
 Aplicando Técnicas de Engenharia de Software para o Redesign do Site do Departamento de Informática da UFMA. 
 PINTO, A. ; COSTA, E. ; LEITE, F. ; SILVA, J. ; RODRIGUES JUNIOR, J. R. D. ; RIVERO, LUIS
+                
 ANAIS DO IV ENCONTRO MARANHENSE DOS GRUPOS DE PROGRAMA DE EDUCAÇÃO TUTORIAL
 1
 
@@ -961,6 +972,7 @@ ANAIS DO V ENCONTRO REGIONAL DE COMPUTAÇÃO E SISTEMAS DE INFORMAÇÃO
 A Methodology for the Elicitation of Usability Requirements in the Development of Web Applications.
 RIVERO, L.; CONTE, T.     U.
 ANAIS DA ESCOLA LATINO AMERICANA DE ENGENHARIA DE SOFTWARE: FUNDAMENTOS E ESTADO DA ARTE
+                
 1
 
 

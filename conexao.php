@@ -4,7 +4,8 @@
     $password = '';
 
     try{
-        $conexao = new PDO($dsn, $username, $password); 
+        $conexao = new PDO($dsn, $username, $password);
+        
     }catch(PDOException $exception){
         echo 'Erro: '.$exception->getMessage();   
     }
