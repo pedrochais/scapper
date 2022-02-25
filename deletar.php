@@ -14,5 +14,4 @@
         registrar($log, 'Os dados foram deletados da tabela.', 'AVISO:deletar_tb');
         header('Location: index.php');
     }
-   
 ?>

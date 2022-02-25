@@ -32,16 +32,16 @@
             if (count($dados) > 0) {
                 foreach ($dados as $informacao) {
                     echo '<div class="box">';
-                    echo "<p>ID: $informacao[0]</p>";
-                    echo "<p>Título: $informacao[1]</p>";
-                    echo "<p>Autores: $informacao[2]</p>";
-                    echo "<p>Revista: $informacao[3]</p>";
-                    echo "<p>Volume: $informacao[4]</p>";
-                    echo "<p>Numero: $informacao[5]</p>";
-                    echo "<p>Paginas: $informacao[6]</p>";
-                    echo "<p>Ano: $informacao[7]</p>";
-                    echo "<p>Editora: $informacao[8]</p>";
-                    echo "<p>Link: $informacao[9]</p>";
+                    echo "<p><span class='info'>ID:</span> $informacao[0]</p>";
+                    echo "<p><span class='info'>Título:</span> $informacao[1]</p>";
+                    echo "<p><span class='info'>Autores:</span> $informacao[2]</p>";
+                    echo "<p><span class='info'>Revista:</span> $informacao[3]</p>";
+                    echo "<p><span class='info'>Volume:</span> $informacao[4]</p>";
+                    echo "<p><span class='info'>Numero:</span> $informacao[5]</p>";
+                    echo "<p><span class='info'>Paginas:</span> $informacao[6]</p>";
+                    echo "<p><span class='info'>Ano:</span> $informacao[7]</p>";
+                    echo "<p><span class='info'>Editora:</span> $informacao[8]</p>";
+                    echo "<p><span class='info'>Link:</span> $informacao[9]</p>";
                     echo '</div>';
                 }
             } else {
