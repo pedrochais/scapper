@@ -5,8 +5,7 @@
 
     try{
         $conexao = new PDO($dsn, $username, $password);
-        
     }catch(PDOException $exception){
-        echo 'Erro: '.$exception->getMessage();   
+        registrar($log, $exception->getMessage(), 'ERRO:conexao_bd');
     }
 ?>

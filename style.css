@@ -1,0 +1,59 @@
+body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: space-between;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.box {
+    margin: 10px;
+    padding: 20px;
+    border: 2px grey solid;
+}
+
+p {
+    border-left: 2px black solid;
+}
+
+.linha-vazia {
+    color: red;
+}
+
+.menu {
+    
+    width: 400px;
+    height: 500px;
+    border: 2px grey solid;
+    margin: auto;
+    margin-top: 100px;
+}
+
+input {
+    display: flex;
+    flex-direction: column;
+    margin: 15px auto;
+    padding: 10px;
+}
+
+button {
+    display: flex;
+    padding: 10px;
+    margin: 50px auto;
+}
+
+button:hover, #bt:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}

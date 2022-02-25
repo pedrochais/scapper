@@ -1,7 +1,7 @@
 <?php
 include('arquivo.php');
 include('conexao.php');
-include('erro.php');
+include('log.php');
 
 //Variável de controle dos valores das colunas
 $coluna = 1;
@@ -13,43 +13,18 @@ while (!feof($dados)) {
     if ($instrucao_finalizada) {
         $query = '';
     }
-
-    //Caso em que os campos da vez são do tipo inteiro e a linha é vazia. 
-    //Se for true, o valor passado para o banco de dados será NULL.
-    if(($coluna == 4 || $coluna == 5 || $coluna == 7) && $linha == "\n"){
-        $linha = 'NULL';
-    }
     
     if($coluna == 10){
         //Instrução MySQL para inserção de uma nova linha na tabela
         $query = "INSERT INTO tb_publicacoes (titulo, autores, revista, volume, numero, paginas, ano, editora, link) VALUES ('$titulo', '$autores', '$revista', '$volume', '$numero', '$paginas', '$ano', '$editora', '$link')";
-        
-        //Imprime resultado da query na tela
-        //echo '<p>'.$query.'</p>';
 
         try{
             //Execução da instrução
             $execucao = $conexao->exec($query);
         }catch(PDOException $exception){
             //Registrar mensagem de erro
-            registrar($log, $erro, $exception);
+            registrar($log, $exception->getMessage(), 'ERRO:insercao_bd');
         }
-            
-
-        //Monitoramento dos valores
-        /*
-        echo '<div class="box">';
-        echo '<p>'.$titulo.'</p>';
-        echo '<p>'.$autores.'</p>';
-        echo '<p>'.$revista.'</p>';
-        echo '<p>'.$volume.'</p>';
-        echo '<p>'.$numero.'</p>';
-        echo '<p>'.$paginas.'</p>';
-        echo '<p>'.$ano.'</p>';
-        echo '<p>'.$editora.'</p>';
-        echo '<p>'.$link.'</p>';
-        echo '</div>';
-        */
 
         //Reiniciando variável de controle
         $coluna = 1;
@@ -69,4 +44,7 @@ while (!feof($dados)) {
     $instrucao_finalizada = false;
     $coluna++;
 }
+registrar($log, 'Inserção de dados realizada.', 'AVISO:insercao_bd');
+//Volta para o início após finalizar o script
+header('Location: index.php');
 ?>
