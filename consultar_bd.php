@@ -30,7 +30,12 @@
         }
 
         p {
-            border-left: 2px black solid;
+            border: 1px red solid;
+        }
+
+        .erro {
+            background: red;
+            color: white;
         }
 
         .linha-vazia {

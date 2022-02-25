@@ -45,8 +45,8 @@
         include('arquivo.php');
 
         $div_fechada = true;
-        while (!feof($arquivo)) {
-            $linha = fgets($arquivo);
+        while (!feof($dados)) {
+            $linha = fgets($dados);
 
             if ($div_fechada) {
                 echo '<div class="box">';
